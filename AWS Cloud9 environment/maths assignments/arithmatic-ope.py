@@ -1,0 +1,7 @@
+print(4+4)
+print(4-1)
+print(3*3)
+print(9/3)
+print(23%4)
+print(2**6)
+print(100//4)
